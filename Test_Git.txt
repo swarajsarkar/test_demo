@@ -1,2 +1,2 @@
-Hello GIT!
-Meeting GIT after a long time...
+echo "Hello GIT!"
+echo "Meeting GIT after a long time..."
