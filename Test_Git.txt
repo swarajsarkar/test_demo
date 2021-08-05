@@ -1,2 +1,11 @@
-echo "Hello GIT!!!"
-echo "Meeting GIT after a long time..."
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+    }
+}
