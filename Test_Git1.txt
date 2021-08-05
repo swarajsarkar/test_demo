@@ -1,2 +1,2 @@
 echo "Hello Git!!!" 
-Echo "2nd meet!"
+echo "2nd meet!!"
