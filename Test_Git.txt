@@ -1,2 +1,0 @@
-echo "Hello GIT!"
-echo "Meeting GIT after a long time..."
